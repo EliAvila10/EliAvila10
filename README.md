@@ -6,5 +6,5 @@
 
 ### 🔨 Projects
 - [Bias](https://github.com/EliAvila10/project_bias)
-- [Win32_Hash](https://github.com/EliAvila10/Win32_Hash)
-- [Win32_Hash_Argon](https://github.com/EliAvila10/Win32_Hash_Argon2)
+- [Win32_Hash_PBKDF2](https://github.com/EliAvila10/Win32_Hash)
+- [Win32_Hash_Argon2](https://github.com/EliAvila10/Win32_Hash_Argon2)
